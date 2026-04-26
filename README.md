@@ -14,18 +14,6 @@
 
 <br>
 
-<a href="https://yinlewoaisuru.xyz"><img src="https://img.shields.io/badge/🌐_Portfolio-yinlewoaisuru.xyz-a78bfa?style=flat-square&labelColor=09090f&color=1e0a3c" /></a>
-&ensp;
-<a href="https://discord.gg/yinlewoaisuru"><img src="https://img.shields.io/badge/💬_Discord-Join_Server-5865F2?style=flat-square&labelColor=09090f&logo=discord&logoColor=white" /></a>
-&ensp;
-<a href="https://yinlewoaisuru.fun"><img src="https://img.shields.io/badge/🔗_Bio_Link-yinlewoaisuru.fun-22d3ee?style=flat-square&labelColor=09090f" /></a>
-&ensp;
-<a href="https://wakatime.com/@yinlewoaisuru"><img src="https://img.shields.io/badge/⏱_WakaTime-Stats-059669?style=flat-square&labelColor=09090f" /></a>
-
-</div>
-
-<br>
-
 ---
 
 <br>
