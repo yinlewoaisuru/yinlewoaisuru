@@ -6,7 +6,7 @@
 &nbsp;
 <img src="https://img.shields.io/github/stars/yinlewoaisuru?style=for-the-badge&color=7c3aed&label=STARS&labelColor=09090f&logo=github&logoColor=a78bfa" />
 &nbsp;
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20Systems-a78bfa?style=for-the-badge&labelColor=09090f" />
+<img src="https://img.shields.io/badge/FOCUS-Learn-a78bfa?style=for-the-badge&labelColor=09090f" />
 
 <br><br>
 
