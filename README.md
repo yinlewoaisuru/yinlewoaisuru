@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:1e0a3c,100:09090f&height=120&section=header&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:1e0a3c,100:09090f&height=130&section=header&animation=fadeIn" width="100%" />
 
 <br>
 
@@ -17,6 +17,8 @@
 <img src="https://img.shields.io/github/stars/yinlewoaisuru?style=flat-square&color=7c3aed&label=stars&labelColor=09090f&logo=github&logoColor=a78bfa" />
 &nbsp;
 <img src="https://img.shields.io/badge/JST_UTC%2B9-Tokyo-7c3aed?style=flat-square&labelColor=09090f&logo=clockify&logoColor=a78bfa" />
+&nbsp;
+<img src="https://img.shields.io/badge/status-building-a78bfa?style=flat-square&labelColor=09090f&logo=statuspage&logoColor=a78bfa" />
 
 </div>
 
@@ -42,7 +44,8 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="55%">
+
 
 **`Languages`**
 
@@ -105,6 +108,38 @@
 </td>
 </tr>
 </table>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+**`featured`**
+
+<br>
+
+<a href="https://github.com/yinlewoaisuru/PROJECT_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yinlewoaisuru&repo=PROJECT_1&theme=transparent&hide_border=true&title_color=a78bfa&text_color=94a3b8&icon_color=7c3aed&bg_color=09090f" />
+</a>
+&nbsp;
+<a href="https://github.com/yinlewoaisuru/PROJECT_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yinlewoaisuru&repo=PROJECT_2&theme=transparent&hide_border=true&title_color=a78bfa&text_color=94a3b8&icon_color=7c3aed&bg_color=09090f" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/yinlewoaisuru/PROJECT_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yinlewoaisuru&repo=PROJECT_3&theme=transparent&hide_border=true&title_color=a78bfa&text_color=94a3b8&icon_color=7c3aed&bg_color=09090f" />
+</a>
+&nbsp;
+<a href="https://github.com/yinlewoaisuru/PROJECT_4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yinlewoaisuru&repo=PROJECT_4&theme=transparent&hide_border=true&title_color=a78bfa&text_color=94a3b8&icon_color=7c3aed&bg_color=09090f" />
+</a>
 
 </div>
 
@@ -186,21 +221,29 @@
 
 <div align="center">
 
-*if your idea is weird enough — I'm already interested*
+**`reach me`**
 
 <br>
 
-<a href="https://buymeacoffee.com/yinlewoaisuru">
-  <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" />
+<a href="https://discord.com/users/1469216989158309928">
+  <img src="https://img.shields.io/badge/Discord-yinlewoaisuru-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=09090f" />
 </a>
-&ensp;
+&nbsp;
+<a href="mailto:">
+  <img src="https://img.shields.io/badge/Email-contact-7c3aed?style=flat-square&logo=gmail&logoColor=white&labelColor=09090f" />
+</a>
+&nbsp;
+<a href="https://buymeacoffee.com/yinlewoaisuru">
+  <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black&labelColor=09090f" />
+</a>
+&nbsp;
 <a href="https://paypal.me/yinlewoaisuru">
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" />
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white&labelColor=09090f" />
 </a>
 
 <br><br>
 
-<sub>not required · always appreciated · fuels the 3am JST commits</sub>
+<sub>best reached via Discord · open to weird collabs · fuels the 3am JST commits</sub>
 
 <br><br>
 
