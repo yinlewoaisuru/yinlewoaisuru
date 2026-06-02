@@ -123,7 +123,7 @@
 
 <br>
 
-<a href="https://github.com/yinlewoaisuru/PROJECT_1">
+<a href="https://github.com/yinlewoaisuru/VietNamese-Discord-Bot-Template">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yinlewoaisuru&repo=PROJECT_1&theme=transparent&hide_border=true&title_color=a78bfa&text_color=94a3b8&icon_color=7c3aed&bg_color=09090f" />
 </a>
 &nbsp;
