@@ -18,7 +18,6 @@
 
 </div>
 
----
 
 <br>
 
@@ -30,7 +29,6 @@
 
 <br>
 
----
 
 <br>
 
@@ -42,12 +40,13 @@
 
 **`// Languages`**
 
-<img src="https://skillicons.dev/icons?i=python,ts,java,cpp,bash,rust&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,ts,nodejs,java,cpp,bash,rust&theme=dark&perline=7" />
 
 <br>
 
 ![Python](https://img.shields.io/badge/Python-ML_%2F_scripting_%2F_automation-09090f?style=flat-square&logo=python&logoColor=a78bfa&labelColor=1e0a3c)
 ![TypeScript](https://img.shields.io/badge/TypeScript-full--stack_%2F_type--safe_APIs-09090f?style=flat-square&logo=typescript&logoColor=a78bfa&labelColor=1e0a3c)
+![Node.js](https://img.shields.io/badge/Node.js-runtime_%2F_server--side_JS-09090f?style=flat-square&logo=nodedotjs&logoColor=a78bfa&labelColor=1e0a3c)
 ![Rust](https://img.shields.io/badge/Rust-systems_%2F_performance-09090f?style=flat-square&logo=rust&logoColor=a78bfa&labelColor=1e0a3c)
 ![C++](https://img.shields.io/badge/C%2B%2B-low--level_%2F_embedded-09090f?style=flat-square&logo=cplusplus&logoColor=a78bfa&labelColor=1e0a3c)
 ![Java](https://img.shields.io/badge/Java-backend_%2F_distributed-09090f?style=flat-square&logo=openjdk&logoColor=a78bfa&labelColor=1e0a3c)
@@ -106,7 +105,6 @@
 
 <br>
 
----
 
 <br>
 
@@ -160,7 +158,6 @@
 
 <br>
 
----
 
 <br>
 
